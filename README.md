@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![dja12123's GitHub stats](https://github-readme-stats.vercel.app/api?username=dja12123)](https://github.com/dja12123/github-readme-stats)
 
 <!--
 **dja12123/dja12123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
